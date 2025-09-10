@@ -19,7 +19,7 @@ int main() {
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
     
-    printf("Dados da Carta 1\n");
+    printf("Dados da Carta A1\n");
     printf("\n");
 
     printf("Digite a População:\n");
@@ -43,7 +43,7 @@ int main() {
     // Segunda Carta
 
     printf("\n");
-    printf("Dados da Carta 2 \n");
+    printf("Dados da Carta B2 \n");
     printf("\n");
 
     printf("Digite a População:\n");
